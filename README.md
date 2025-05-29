@@ -1,3 +1,6 @@
+_Please note:_ This repository was migrated from the SIO organization page on 5/29/2025. It is currently jointly managed by the [Cornell Tech Security, Trust, and Safety initiative](https://tech.cornell.edu/impact/security-trust-and-safety-sets/) and the [Stanford Cyber Policy Center](https://cyber.fsi.stanford.edu/). We expect to update the page below significantly over the course of the Summer of 2025 in collaboration with consortium members. Please contact Alexios Mantzarlis at <am3368@cornell.edu> for questions or contributions.
+
+
 The Trust & Safety Teaching Consortium
 =======================================
 
@@ -7,7 +10,7 @@ We are sharing a 13-module reading list and associated slide decks, recorded lec
 
 The teaching content we created covers sensitive topics, and instructors should carefully review materials before assigning them. Instructors should consider what content warnings they want to apply and what content might not be appropriate for their audience. Many Consortium members tell students what sensitive topics will be covered and when, and they give students the option to skip sensitive classes (or walk out in the middle of class) and skip associated readings without penalty.
 
-If you are interested in helping to create teaching content, email <trustandsafetyjournal@stanford.edu> to join the Consortium. Please include a sentence or two on your area of expertise, along with your professional affiliation if applicable.
+If you are interested in helping to create teaching content, email <am3368@cornell.edu> and <trustandsafetyjournal@stanford.edu> to join the Consortium. Please include a sentence or two on your area of expertise, along with your professional affiliation if applicable.
 
 We encourage you to use this content for your class; please just email to let us know how you are using the resources so we can track our impact.
 
@@ -114,6 +117,9 @@ Teaching Consortium Members Teaching Online Safety in the 2024-2025 Academic Yea
     -  Cyber and Democracy
 -   Q.J. Yao, Lamar University
     -  Digital Marketing Campaigns
+-   Alexios Mantzarlis, Cornell Tech
+    -  Trust and Safety: Platforms, Policies, Products
+
 
 Teaching Consortium Members Who Taught Online Safety in the 2023-2024 Academic Year
 -----------
@@ -153,7 +159,7 @@ Example Course Descriptions
 -   Beth Goldberg and Ziad Reslan: Disinformation in the Age of AI, [course description](https://docs.google.com/document/d/1N3_tDsD1A7ys8R366iuXJOd5bEXqQgdQx_WU1Q_yEPw/edit?usp=sharing)
 -   Alexios Mantzarlis and Thomas Ristenpart: Trust and Safety: Platforms, Policies, Products, [course description](https://courses.cornell.edu/preview_course_nopop.php?catoid=60&coid=1123126)
 -   Laura McLester: Digital Safety, [course description](https://docs.google.com/document/d/1yyba_VQ6B93zcq70FcXiYWRvtQ-OSTdb_Vm1SuggoFg/edit?usp=sharing)
--   Brad Shen: Stanford University, [course description](https://bulletin.stanford.edu/courses/2265711)
+-   Brad Chen: Stanford University, [course description](https://bulletin.stanford.edu/courses/2265711)
 -   Alex Stamos, Jeff Hancock, Shelby Grossman: Trust and Safety, [course description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CS+152%3A+Trust+and+Safety+Engineering&collapse=)
 
 External Teaching Resources
