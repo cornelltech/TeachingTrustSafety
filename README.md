@@ -1,4 +1,4 @@
-🚨 <code style="color: red">_Please note:_</code> This repository was migrated from the SIO organization page on 5/29/2025. It is currently jointly managed by the [Cornell Tech Security, Trust, and Safety initiative](https://tech.cornell.edu/impact/security-trust-and-safety-sets/) and the [Tech Impact and Policy Center](https://tip.fsi.stanford.edu/). We expect to update the page below significantly over the course of the Summer of 2025 in collaboration with consortium members. Please contact Alexios Mantzarlis at <am3368@cornell.edu> for questions or contributions.
+🚨 <code style="color: red">_Please note:_</code> This repository was migrated from the SIO organization page on 5/29/2025. It is currently jointly managed by the [Cornell Tech Security, Trust, and Safety initiative](https://tech.cornell.edu/impact/security-trust-and-safety-sets/) and the [Tech Impact and Policy Center at Stanford University](https://tip.fsi.stanford.edu/). We expect to update the page below significantly over the course of the Summer of 2025 in collaboration with consortium members. Please contact Alexios Mantzarlis at <am3368@cornell.edu> for questions or contributions.
 
 
 
